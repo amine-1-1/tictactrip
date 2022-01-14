@@ -63,7 +63,7 @@ app.use(errorHandler);
 const swaggerDefinition = {
     openapi: '3.0.0',
     info: {
-        title: 'API Title Here',
+        title: 'API justify text',
         version: '1.0.0',
         description: 'API Description Here',
         contact: {
