@@ -75,5 +75,5 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## View documentation
   To view the documentation of this api access
   
-      localhost:5000/api-docs
+      https://tictactrip-justify-text-amine.herokuapp.com/api-docs/
 
