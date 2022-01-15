@@ -73,7 +73,5 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ yarn build
     
 ## View documentation
-  To view the documentation of this api access
-  
-      https://tictactrip-justify-text-amine.herokuapp.com/api-docs/
-
+  To view the documentation of this api 
+    Just go on [documentation](https://tictactrip-justify-text-amine.herokuapp.com/api-docs/).
