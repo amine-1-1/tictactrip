@@ -1,6 +1,7 @@
 # tictactrip-Exo Back
 
 A nice project done for the purpose of technical test for tictactrip 
+### Deliverables(French version)
 
 - La longueur des lignes du texte justifié doit être de 80 caractères.
 - L’endpoint doit être de la forme /api/justify et doit retourner un texte justifié suite à une requête POST avec un body de ContentType text/plain
